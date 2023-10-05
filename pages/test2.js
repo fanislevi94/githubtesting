@@ -3,6 +3,7 @@ export default function Test2() {
     <div>
       <div>Hello Tes2</div>
       <div>Hello Tes2</div>
+      <div>Hello Tes2</div>
     </div>
   );
 }
