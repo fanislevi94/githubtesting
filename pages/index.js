@@ -6,10 +6,5 @@ import styles from "@/styles/Home.module.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-  return (
-    <div>
-      <div>hello fanis</div>
-      <div>hello Nikos</div>
-    </div>
-  );
+  return <div>hello fanis</div>;
 }
